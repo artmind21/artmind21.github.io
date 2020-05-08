@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Yes, Hello World :))
+
+Bellow is just some official help how to set up your page here
 
 You can use the [editor on GitHub](https://github.com/slavinci/slavinci.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
