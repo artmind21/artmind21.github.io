@@ -1,19 +1,19 @@
 ## Yes, Hello World :))
 
 Bellow is just some official help how to set up your page here
-|
+|:
 ### Tables
 
 You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe ```|```
 
-```
+```markdown
 First Header | Second Header | 3rd Header
---- | --- | ---
+------------- | ------------- | -------------
 Content from cell 1 | Content from cell 2 | Cell 3
 Content in the first column | Content in the second column | Cell 6
 ```
 First Header | Second Header | 3rd Header
---- | --- | ---
+------------- | ------------- | -------------
 Content from cell 1 | Content from cell 2 | Cell 3
 Content in the first column | Content in the second column | Cell 6
 
