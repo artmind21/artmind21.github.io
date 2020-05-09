@@ -2,6 +2,23 @@
 
 Bellow is just some official help how to set up your page here
 
+### Tables
+
+You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
+
+```
+First Header | Second Header | 3rd Header
+------------ | -------------
+Content from cell 1 | Content from cell 2 | Cell 3
+Content in the first column | Content in the second column | Cell 6
+```
+First Header | Second Header | 3rd Header
+------------ | -------------
+Content from cell 1 | Content from cell 2 | Cell 3
+Content in the first column | Content in the second column | Cell 6
+
+### Editor
+
 You can use the [editor on GitHub](https://github.com/slavinci/slavinci.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
