@@ -1,20 +1,24 @@
-### Yes, Hello World :)
+### Yes, Hello World :laughing::earth_africa::rabbit:
 
 Bellow is just some official help how to set up your page here
 
+Link to [Emoji-Cheat-Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) to start with
+
+---
+
 ### Tables
 
-You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe ```|```
+You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe \|
 ```
 First Header | Second Header | 3rd Header
---- | --- | ---
+:--- | :---: | ---:
 Content from cell 1 | Content from cell 2 | Cell 3
 Content in the first column | Content in the second column | Cell 6
 ```
-First Header | Second Header | 3rd Header
---- | --- | ---
-Content from cell 1 | Content from cell 2 | Cell 3
-Content in the first column | Content in the second column | Cell 6
+| First Header | Second Header | 3rd Header |
+| :--- | :---: | ---: |
+| Content from cell 1 | Content from cell 2 | Cell 3 |
+| Content in the first column | Content in the second column | Cell 6 |
 
 ### Editor
 
