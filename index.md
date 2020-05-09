@@ -1,4 +1,4 @@
-### Yes, Hello World :laughing::earth_africa::rabbit:
+### Yes, Hello World :laughing: :earth_africa: :rabbit:
 
 Bellow is just some official help how to set up your page here
 
