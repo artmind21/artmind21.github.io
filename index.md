@@ -32,6 +32,10 @@ To cut the long story short, we are still not there yet - there is no *perfect* 
 
 Excellent article summarizing ["Top 7 Modern programming languages" in 2019 >](https://towardsdatascience.com/top-7-modern-programming-language-to-learn-now-156863bd1eec)
 
+[PYPL PopularitY of Programming Language >](http://pypl.github.io/PYPL.html)
+
+[TIOBE Index of the Most Popular Programming Languages >](https://www.tiobe.com/tiobe-index/)
+
 To compare speeds check [Benchmark Game >](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
 ---
