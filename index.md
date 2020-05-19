@@ -38,6 +38,8 @@ Excellent article summarizing ["Top 7 Modern programming languages" in 2019 >](h
 
 To compare speeds check [Benchmark Game >](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
+[StackOverFlow Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted-other-frameworks-libraries-and-tools)
+
 ---
 
 Link to [Emoji-Cheat-Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) to start with
