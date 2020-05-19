@@ -2,7 +2,7 @@
 
 A long time ago when dinosaurs still roamed the Pangaea continent, and computer mouses were cosidered a worthless disgrace by true computer engineers, there was the Holy Grail of the perfect programming language - C/C++ :angel:
 
-With C/C++ one could create everything from boring science projects to useless commercial stuff to exciting console-text games. And it ran perfectly on everything because all computers were PCs with no GPUs and only system beeps for sound :trumpet:
+With C/C++ one could create everything from boring science projects to useless commercial stuff to exciting console-text games. And it ran perfectly on everything because all computers were only desktop PCs with no GPUs and only system beeps for sound :trumpet:
 
 After aeons of evolution, things changed a little...
 
