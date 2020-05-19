@@ -1,10 +1,28 @@
-### Yes, Hello World :laughing: :earth_africa: :rabbit:
+### The 21st Century Quest: Looking for the perfect programming language? :laughing: :earth_africa: :rabbit:
 
-Bellow is just some official help how to set up your page here
+A long time ago when dinosaurs still roamed the Pangaea continent, and computer mouses were cosidered a worthless disgrace by true computer engineers, there was the Holy Grail of the perfect programming language - C/C++ :angel:
 
-Link to [Emoji-Cheat-Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) to start with
+With C/C++ one could create everything from boring science projects to useless commercial stuff to exciting console-text games. And it ran perfectly on everything because all computers were PCs with no GPUs and only system beeps for sound :trumpet:
+
+After aeons of evolution, things changed a little...
+
+My knowledge and experience in C/C++ (for diploma), Turbo Pascal 5 (for freelance work), HTML + PHP + SQL, and later in Flash ActionScript 2 + SQL became obsolete.
+
+And so starts my quest of Finding the Perfect Programming language, the Holy Grail of the 21st Century :trophy:
+
+-C/C++
+-C#
+-Swift
+-Rust
+-PHP + SQL
+-Java
+-Javascript
+-Flutter + Dart
+-Lua
 
 ---
+
+Link to [Emoji-Cheat-Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) to start with
 
 ### Tables
 
