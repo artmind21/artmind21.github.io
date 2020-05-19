@@ -10,19 +10,23 @@ My knowledge and experience in C/C++ (for diploma), Turbo Pascal 5 (for freelanc
 
 And so starts my quest of Finding the Perfect Programming language, the Holy Grail of the 21st Century :trophy:
 
--C/C++
--C#
--Swift
--Rust
--PHP + SQL
--Java
--Javascript
--Flutter + Dart
--Lua
+* C/C++
+* C#
+* Swift
+* Rust
+* PHP + SQL
+* Java
+* Kotlin
+* Javascript
+* Go
+* Flutter + Dart
+* Lua
 
 ---
 
 Excellent article summarizing ["Top 7 Modern programming languages" in 2019 >](https://towardsdatascience.com/top-7-modern-programming-language-to-learn-now-156863bd1eec)
+
+To compare speeds check [Benchmark Game >](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
 
 ---
 
