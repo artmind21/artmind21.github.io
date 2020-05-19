@@ -1,14 +1,20 @@
-### The 21st Century Quest: Looking for the perfect programming language? :laughing: :earth_africa: :rabbit:
+### The 21st Century Holy Grail Quest: The Perfect Programming Language :laughing: :earth_africa: :rabbit:
+
+## Episode 1: Short History
 
 A long time ago when dinosaurs still roamed the Pangaea continent, and computer mouses were cosidered a worthless disgrace by true computer engineers, there was the Holy Grail of the perfect programming language - C/C++ :angel:
 
-With C/C++ one could create everything from boring science projects to useless commercial stuff to exciting console-text games. And it ran perfectly on everything because all computers were only desktop PCs with no GPUs and only system beeps for sound :trumpet:
+With C/C++ one could create everything from boring science projects to junk commercial stuff to exciting console-text games. And it ran perfectly on everything because all computers were only desktop PCs with few kilobaits of RAM, no GPUs at all, and only system beeps for exciting multimedia sounds :trumpet:
 
-After aeons of evolution, things changed a little...
+After aeons of evolution, things changed a little... When Steve Jobs introduced the first iPhone, everyone stopped swinging in trees and started using smart tools. Nowdays every granny uses the mobile computational and networking superpowers to harass their grandchildren on social networks. For good or for bad, computers ceased being an exclusive domain of weird and scary computer-science wizards :tophat::sparkles:
 
-My knowledge and experience in C/C++ (for diploma), Turbo Pascal 5 (for freelance work), HTML + PHP + SQL, and later in Flash ActionScript 2 + SQL became obsolete.
+As of now we use a zillion of various computer types: smartphones, fablets, folding phones, tablets, keyboard tablets, portable & stationary & hybrid gaming consoles, desktops, laptops, smart watches, AI-powered things, etc. etc. etc. Each is produced by dozens of competing manufacturers, and nearly every device comes with its own unique hardware architecture (GPU, CPU, etc.). Let's not forget the upcoming self-driving cars, internet-of-things, personal chips, and whatsnot. In other words - absolutely everything will be computer & network powered. Mm, and we still have to consider older, not-upgraded devices when developing something :cold_sweat: 
 
-And so starts my quest of Finding the Perfect Programming language, the Holy Grail of the 21st Century :trophy:
+So where it leaves the old good C/C++? Unfortunatelly, in the dark remote place where no one can see it, with niche exceptions like clever frameworks (Unreal Engine for one). But try using it to write your little app that runs at least on several systems and you will wish you never left that tree in the first place :palm_tree:
+
+## Episode 2: Limbo of the Modern Programming Languages
+
+To cut the long story short, we are still not there yet - there is no *perfect* programming language for all-case scenario (unlike the C/C++ in the Dinosaur Era). 
 
 * C/C++
 * C#
