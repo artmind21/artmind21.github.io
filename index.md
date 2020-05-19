@@ -22,6 +22,10 @@ And so starts my quest of Finding the Perfect Programming language, the Holy Gra
 
 ---
 
+Excellent article summarizing ["Top 7 Modern programming languages" in 2019 >](https://towardsdatascience.com/top-7-modern-programming-language-to-learn-now-156863bd1eec)
+
+---
+
 Link to [Emoji-Cheat-Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) to start with
 
 ### Tables
