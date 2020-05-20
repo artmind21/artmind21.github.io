@@ -10,13 +10,13 @@ After aeons of evolution, things changed a little... When Steve Jobs introduced 
 
 As of now we use a zillion of various computer types: smartphones, fablets, folding phones, tablets, keyboard tablets, portable & stationary & hybrid gaming consoles, desktops, laptops, smart watches, AI-powered things, etc. etc. etc. Each is produced by dozens of competing manufacturers, and nearly every device comes with its own unique hardware architecture (GPU, CPU, etc.). Let's not forget the upcoming self-driving cars, internet-of-things, personal chips, and whatsnot. In other words - absolutely everything will be computer & network powered. Mm, and you still have to consider older, not-upgraded devices when developing something :cold_sweat: 
 
-So where it leaves the old good C/C++? Unfortunatelly, in the dark remote places where no one can see it (*Big Data domain*), with niche exceptions like clever Unreal Engine for game development. But try using it to write your generic little app with UI that runs at least on several systems and you will wish you never left that tree in the first place :palm_tree:
+So where it leaves the old good C/C++? Unfortunatelly, in the dark remote places where no one can see it (*Big Data domain*), with niche exceptions. But try using it to write your generic little app with UI that runs at least on several systems and you will wish you never left that tree in the first place :palm_tree:
 
-## Episode 2: Limbo of the Modern Programming Languages
+## Episode 2: Frameworks
 
-As the saying goes: a programming language is as only as good as its compiler, development tools and the community surrounding it.
+*"What's the perfect programming language?"* is a broken quest from the very start. There is a saying: a programming language is as only as good as its compiler, development tools and the community surrounding it.
 
-To cut the long story short, we are still not there yet - there is no *perfect* programming language for all-case scenario (unlike the C/C++ in the Dinosaur Era). 
+In the 21st century it's all about **Frameworks**. So the right way to go about it is to find developing environment (IDE) which fits your purpose(s) and mind the best. 
 
 * C/C++
 * C#
@@ -26,7 +26,7 @@ To cut the long story short, we are still not there yet - there is no *perfect* 
 * Java
 * Kotlin
 * Javascript
-* Go
+* Go + QT
 * Flutter + Dart
 * Lua
 
