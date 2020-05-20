@@ -10,7 +10,7 @@ After aeons of evolution, things changed a little... When Steve Jobs introduced 
 
 As of now we use a zillion of various computer types: smartphones, fablets, folding phones, tablets, keyboard tablets, portable & stationary & hybrid gaming consoles, desktops, laptops, smart watches, AI-powered things, etc. etc. etc. Each is produced by dozens of competing manufacturers, and nearly every device comes with its own unique hardware architecture (GPU, CPU, etc.). Let's not forget the upcoming self-driving cars, internet-of-things, personal chips, and whatsnot. In other words - absolutely everything will be computer & network powered. Mm, and you still have to consider older, not-upgraded devices when developing something :cold_sweat: 
 
-So where it leaves the old good C/C++? Unfortunatelly, in the dark remote places where no one can see it (*Big Data domain*), with niche exceptions like clever Unreal Engine for game development. But try using it to write your generic little app that runs at least on several systems and you will wish you never left that tree in the first place :palm_tree:
+So where it leaves the old good C/C++? Unfortunatelly, in the dark remote places where no one can see it (*Big Data domain*), with niche exceptions like clever Unreal Engine for game development. But try using it to write your generic little app with UI that runs at least on several systems and you will wish you never left that tree in the first place :palm_tree:
 
 ## Episode 2: Limbo of the Modern Programming Languages
 
