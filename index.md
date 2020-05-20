@@ -14,6 +14,8 @@ So where it leaves the old good C/C++? Unfortunatelly, in the dark remote places
 
 ## Episode 2: Limbo of the Modern Programming Languages
 
+As the saying goes: a programming language is as only as good as its compiler, development tools and the community surrounding it.
+
 To cut the long story short, we are still not there yet - there is no *perfect* programming language for all-case scenario (unlike the C/C++ in the Dinosaur Era). 
 
 * C/C++
