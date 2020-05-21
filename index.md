@@ -24,6 +24,7 @@ Today here is a zillion of new and old programming languages to choose from but 
 * Modern syntax
 * Comprehensive library
 * Object-oriented / Data-oriented
+* Fast-enough
 
 So is there a contenter for King's Crown yet? The answer is quantum - yes and no. But let's continue with the overview of language plethora though it's the wrong end to start with
 
@@ -47,7 +48,7 @@ Here is my brief personal (and not entirely correct) overview of some of the mos
 * Flutter + Dart
 * Lua
 
-## Episode 2: New Mindset
+## Episode 3: New Mindset
 
 *"What's the perfect programming language?"* is a broken quest from the very start. There is a saying: a programming language is as only as good as its compiler, development tools and the community surrounding it.
 
