@@ -51,11 +51,14 @@ Here is my brief personal (and not entirely correct) overview of some of the mos
 
 ## Episode 3: New Mindset
 
+we are transitioning to a "web first" and "mobile first" world
+
 *"What's the perfect programming language?"* is a broken quest from the very start. There is a saying: a programming language is as only as good as its compiler, development tools and the community surrounding it.
 
 In the 21st century it's all about **Frameworks**. So the right way to go about it is to find developing environment (IDE) which fits your purpose(s) and mind the best. 
 
 * QT
+* Java + JavaFx + Java
 * Xcode
 * Flutter
 * Unity
