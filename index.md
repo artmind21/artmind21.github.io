@@ -18,10 +18,11 @@ So is there a *swiss-knife* programming language that would cover majority all t
 
 Just like with the Tower of Babel, the symbol of united human race and power, which building was stopped and humanity scattered across the earth to develop different languages, so the situation today with programming languages is not much different. Except that different languages and views give humanity more power then it takes aways, especially when internet connected all those scattered little human beings into one supergiant networking mind :globe_with_meridians:
 
-Today here is a zillion of new and old programming languages to choose from but here is a wishlist for the *perfect* one:
+Today there is a zillion of new and old programming languages to choose from but here is a wishlist for the *perfect* one:
 * Universal (from *Big Data* to mutimedia-rich applications) 
 * One-code-deploys-everywhere
 * Modern syntax
+* Mature and stable
 * Comprehensive library
 * Object-oriented / Data-oriented
 * Fast-enough
