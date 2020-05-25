@@ -1,3 +1,15 @@
+# Art Mind in the 21st Century
+
+What's that? 
+
+*The short answer:* human way of thinking changed tremendously, and art's mission is to reflect that and evolve accordingly
+
+### The Long Answer ###
+
+In a sense, art always tried to be as engaging and absorbing - interactive - as possible. That's why *perspective* was invented, that's why realistic painting was prevalant for centuries.
+
+### W-I-P
+
 ### The 21st Century Holy Grail Quest: The Perfect Programming Language :laughing: :earth_africa: :rabbit:
 
 ## Episode *NULL*: A Bit of History
@@ -11,8 +23,6 @@ After aeons of evolution, things changed a little... When Steve Jobs introduced 
 As of now we use a zillion of various computer types: smartphones, folding phones, tablets, fablets, keyboard tablets, portable & stationary & hybrid gaming consoles, desktops, laptops, smart watches, AI-powered speaking things, etc. etc. etc. Each is produced by dozens of competing manufacturers, and nearly every device comes with its own unique hardware architecture (GPU, CPU, etc.). Let's not forget the upcoming self-driving cars, internet-of-things, personal chips, and whatsnot. In other words - every little and big thing will be computer & network powered. Mm, and you still have to consider older, not-upgraded devices when developing something :cold_sweat: 
 
 So is there a *swiss-knife* programming language that would cover majority all this new tech landscape? Just like it was in the old good days of MS Dos / MS Windows 3? New kids on the block? Old veterans? Or something entirely new? UFO, perhaps? :alien:
-
-### W-I-P
 
 ## Episode 1: The 21st Century Tower of Babel
 
