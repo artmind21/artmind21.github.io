@@ -1,17 +1,19 @@
 # Art Mind in the 21st Century
 
-What's that? Visual artist's quest to
+Visual artist's quest to find an answer to the question: *What should be art in the 21st century?*
 
-*The short answer:* human way of thinking changed tremendously, and art's mission is to reflect that and evolve accordingly
+*The short answer:* human way of thinking changed tremendously, and art's mission is to reflect that, and evolve accordingly
+
+## W-I-P
 
 ### The Long Answer ###
 
 In a sense, art has always been interactive - artists  strived to engage viewers with their pictures as much possible.  That's why *perspective* was invented, that's why realistic painting was prevalant for centuries
 (Leonardo da Vinci, Michelangelo, Titian).
 
-That's until the photography was invented, which freed artists from representational depictions. Began the era of the Modern Art - impressionism, expressionism, etc. - which focussed on the spiritual side of things.
+That's until the photography was invented, which freed artists from representational art. Began the era of the Modern Art - impressionism, expressionism, etc. - which focussed on the spiritual side of things. 
 
-Alongside
+Alongside the Film Art was evolving rapidly
 
 But times were changing, and artists were looking for new ways to express ideas and to engage people. YBT - Young British Artist - with Damien Hirst in the forefront *"invented"* new interactive art - Conceptual Art / Installation Art
 (The Physical Impossibility of Death in the Mind of Someone Living)
