@@ -1,10 +1,11 @@
-function ###Define_Visual_Art (century: 21)###
+```function ###Define_Visual_Art (century: 21)###
   {
   ###analyze_dependencies###(
     *Renaissance:* 'Leonardo da Vinci,  Michelangelo',
     *YBT_Young_British_Artists:* 'Damien Hirst',
     );
   }
+```
 
 ---
 ## W-I-P
