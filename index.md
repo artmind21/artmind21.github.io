@@ -1,16 +1,19 @@
-function ***Define_Art(century: 21)***
+function ###Define_Visual_Art (century: 21)###
   {
+  ###analyze_dependencies###(
+    *Renaissance:* 'Leonardo da Vinci,  Michelangelo',
+    *YBT_Young_British_Artists:* 'Damien Hirst',
+    );
   }
 
 ---
+## W-I-P
 
 # Art Mind in the 21st Century
 
 Visual artist's quest to find an answer to the question: *What should be art in the 21st century?*
 
 *The short answer:* human way of thinking changed tremendously, and art's mission is to reflect that, and evolve accordingly
-
-## W-I-P
 
 ### The Long Answer ###
 
