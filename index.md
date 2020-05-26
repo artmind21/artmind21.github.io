@@ -1,16 +1,17 @@
 
-_// What could be visual art in the 21st century?_
+```java
+// What could be visual art in the 21st century?_
 
-## function Define_Visual_Art (Century: 21)
-      {
-      // Let's analyze some art heritage and influences
+function Define_Visual_Art (Century: 21)
+    {
+    // Let's analyze some art heritage and influences
   
-    ### Analyze_Some_Dependencies(
+      Analyze_Some_Dependencies(
   
-    **Renaissance:** 'Leonardo da Vinci,  Michelangelo, Raphael, Titian, Brunelleschi',
+    Renaissance: 'Leonardo da Vinci,  Michelangelo, Raphael, Titian, Brunelleschi',
       //output -> realism, academic art foundations, perspective
       
-    **Baroque:** 'Caravaggio, Rembrandt',
+    Baroque: 'Caravaggio, Rembrandt',
     
     Neoclassical_Art: '',
     
