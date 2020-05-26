@@ -1,11 +1,11 @@
 ```
 // What could be visual art in the 21st century?
 
-function Define_Visual_Art (Century: 21)
+function # Define_Visual_Art (Century: 21)
   {
   // Let's analyze some art heritage and influences
   
-  Analyze_Some_Dependencies(
+  ## Analyze_Some_Dependencies(
   
     Renaissance: 'Leonardo da Vinci,  Michelangelo, Raphael, Titian, Brunelleschi',
       //output -> realism, academic art foundations, perspective
