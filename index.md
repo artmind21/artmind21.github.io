@@ -7,7 +7,7 @@ function Define_Visual_Art (Century: 21)
     // Let's analyze some art heritage and influences
   
     Analyze_Some_Dependencies(
-  
+
         Renaissance: 'Leonardo da Vinci,  Michelangelo, Raphael, Titian, Brunelleschi',
             //output -> realism, academic art foundations, perspective
             // -> More engaging, absorbing art 
@@ -27,8 +27,9 @@ function Define_Visual_Art (Century: 21)
 
         Conceptual_Art: 'Marcel Duchamp, Yoko Ono, John Baldessari, ', 
 
-        YBT_Young_British_Artists: 'Damien Hirst',
-    );
+        YBT_Young_British_Artists: 'Damien Hirst')
+        {
+        }
   }
 ```
 
