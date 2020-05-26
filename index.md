@@ -1,9 +1,30 @@
 ```
-function Define_Visual_Art (century: 21)
+// What could be visual art in the 21st century?
+
+function Define_Visual_Art (Century: 21)
   {
-  Analyze_Dependencies(
-    *Renaissance:* 'Leonardo da Vinci,  Michelangelo',
-    *YBT_Young_British_Artists:* 'Damien Hirst',
+  // Let's analyze some art heritage and influences
+  
+  Analyze_Some_Dependencies(
+  
+    Renaissance: 'Leonardo da Vinci,  Michelangelo, Raphael, Titian, Brunelleschi',
+      //output -> realism, academic art foundations, perspective
+      
+    Baroque: 'Caravaggio, Rembrandt',
+    
+    Neoclassical_Art: '',
+    
+    Romanticism '',
+    
+    Academic_Art: 'William Bouguereau',
+    
+    Modern_art: ' Vincent van Gogh, Pablo Picasso,  Egon Schiele',
+    
+    Dada: '',  // output -> Meme
+    
+    Conceptual_Art: 'Marcel Duchamp, Yoko Ono, John Baldessari, ', 
+    
+    YBT_Young_British_Artists: 'Damien Hirst',
     );
   }
 ```
