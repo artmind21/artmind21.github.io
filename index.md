@@ -1,3 +1,10 @@
+```
+function Define_Art(century: 21)
+  {
+  }
+
+```
+
 # Art Mind in the 21st Century
 
 Visual artist's quest to find an answer to the question: *What should be art in the 21st century?*
