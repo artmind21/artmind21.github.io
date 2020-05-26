@@ -1,16 +1,16 @@
-```
-// What could be visual art in the 21st century?
 
-function # Define_Visual_Art (Century: 21)
-  {
-  // Let's analyze some art heritage and influences
+_// What could be visual art in the 21st century?_
+
+## function Define_Visual_Art (Century: 21)
+      {
+      // Let's analyze some art heritage and influences
   
-  ## Analyze_Some_Dependencies(
+    ### Analyze_Some_Dependencies(
   
-    Renaissance: 'Leonardo da Vinci,  Michelangelo, Raphael, Titian, Brunelleschi',
+    **Renaissance:** 'Leonardo da Vinci,  Michelangelo, Raphael, Titian, Brunelleschi',
       //output -> realism, academic art foundations, perspective
       
-    Baroque: 'Caravaggio, Rembrandt',
+    **Baroque:** 'Caravaggio, Rembrandt',
     
     Neoclassical_Art: '',
     
@@ -176,10 +176,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/slavinci/slavinci.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
