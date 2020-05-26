@@ -1,5 +1,5 @@
 
-```kotlin
+```dart
 // What could be visual art in the 21st century?_
 
 function Define_Visual_Art (Century: 21)
@@ -9,7 +9,8 @@ function Define_Visual_Art (Century: 21)
     Analyze_Some_Dependencies(
   
         Renaissance: 'Leonardo da Vinci,  Michelangelo, Raphael, Titian, Brunelleschi',
-          //output -> realism, academic art foundations, perspective
+            //output -> realism, academic art foundations, perspective
+            // -> More engaging, absorbing art 
 
         Baroque: 'Caravaggio, Rembrandt',
 
@@ -21,7 +22,8 @@ function Define_Visual_Art (Century: 21)
 
         Modern_art: ' Vincent van Gogh, Pablo Picasso,  Egon Schiele',
 
-        Dada: '',  // output -> Meme
+        Dada: '',
+            // output -> Meme
 
         Conceptual_Art: 'Marcel Duchamp, Yoko Ono, John Baldessari, ', 
 
