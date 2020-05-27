@@ -48,9 +48,13 @@ function Define_Visual_Art (Century: 21)
 Globalisation and the increased access to technology permit more individuals from diverse backgrounds, including those committed to political and social change, as well as artists and collectors to express their views, tastes, needs and perspectives and to have them heard. This is forcing the market to reflect on how best to meet the needs of the rapidly changing global consciousness and is a trend that is expected to persist indefinitely as the world rebalances, with the art institution asked to continue to adapt accordingly. 
 
 https://thenextweb.com/dd/2012/07/14/if-you-like-programming-and-fine-art-you-will-love-raven-kwoks-work-made-with-processing/
+
 https://blog.joeldare.com/learn-programming-by-making-art/
+
 https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657
+
 https://processing.org/
+
 https://www.dangermouse.net/esoteric/piet.html
 
 ## W-I-P
