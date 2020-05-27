@@ -1,5 +1,7 @@
 
 ```dart
+include 'art_mind';
+
 // What could be visual art in the 21st century?_
 
 function Define_Visual_Art (Century: 21)
